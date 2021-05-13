@@ -1,0 +1,39 @@
+function may = May2015
+for ii = 1:31
+    may(ii).month = 'May';
+end
+for ii = 1:31
+    may(ii).date = ii;
+end
+may(1).day = 'Fri';
+may(2).day = 'Sat';
+may(3).day = 'Sun';
+may(4).day = 'Mon';
+may(5).day = 'Tue';
+may(6).day = 'Wed';
+may(7).day = 'Thu';
+may(8).day = 'Fri';
+may(9).day = 'Sat';
+may(10).day = 'Sun';
+may(11).day = 'Mon';
+may(12).day = 'Tue';
+may(13).day = 'Wed';
+may(14).day = 'Thu';
+may(15).day = 'Fri';
+may(16).day = 'Sat';
+may(17).day = 'Sun';
+may(18).day = 'Mon';
+may(19).day = 'Tue';
+may(20).day = 'Wed';
+may(21).day = 'Thu';
+may(22).day = 'Fri';
+may(23).day = 'Sat';
+may(24).day = 'Sun';
+may(25).day = 'Mon';
+may(26).day = 'Tue';
+may(27).day = 'Wed';
+may(28).day = 'Thu';
+may(29).day = 'Fri';
+may(30).day = 'Sat';
+may(31).day = 'Sun';
+end
